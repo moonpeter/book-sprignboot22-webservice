@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gradle
 .idea
+application-oauth.properties
 .gitignore 제거할 예정
 HELP.md 제거할 예정
 src/main/resources/static/ 제거할 예정
